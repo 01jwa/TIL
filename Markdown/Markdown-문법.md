@@ -178,7 +178,7 @@ ___
 ![image description](image URL)
 ```
 * 예시
-    ![수달](https://pixabay.com/photos/otter-clawed-otter-predator-7427340/)
+    ![수달](https://w.namu.la/s/d71d8e3bc89007e47c8005a360806627736568a42f2c703d73723fc529adf7dc98fb3c9485d1f01855d187093f90d81d56384642819036729ae1f36fcec7a0ada45f43b5613f01925e5f15b2dc726a195d824fc8dbe1a84479402413ce2924a550d2e73393b92225aaddc5fbff09efb1)
 
 <br>
 
