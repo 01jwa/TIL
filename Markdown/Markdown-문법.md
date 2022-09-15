@@ -101,6 +101,10 @@ public static void main(String[] args) {
 }
 ```                                       > 이렇게 사용
 ```
+```java
+public static void main(String[] args) {
+
+}
 <br>
 
 ## 6. Horizontal Rule
