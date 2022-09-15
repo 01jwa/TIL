@@ -127,25 +127,25 @@ ___
 대괄호 안에 원하는 단어나 문장, 소괄호 안에 링크를 작성하면 링크를 클릭할 수 있게 만들어줍니다. <br>
 * URL 직접 입력
     ```markdown
-    <https://www.naver.com/>
+    <https://github.com/>
     ```
-    + <https://www.naver.com/>
+    + <https://github.com/>
 
 <br>
 
 * 텍스트에 링크 넣기
     ```markdown
-    [Naver 홈페이지](https://www.naver.com/)를 클릭하세요.
+    [Github 홈페이지](https://github.com/)를 클릭하세요.
     ```
-    + [Naver 홈페이지](https://www.naver.com/)
+    + [Github 홈페이지](https://github.com/)
 
 <br>
 
 * 삽입한 링크에 설명 추가하기
     ```markdown
-    [Naver 홈페이지](https://www.naver.com/ "NAVER")
+    [Github 홈페이지](https://github.com/ "GITHUB")
     ```
-    + [Naver 홈페이지](https://www.naver.com/ "NAVER")
+    + [Github 홈페이지](https://github.com/ "GITHUB")
 
 <br>
 
