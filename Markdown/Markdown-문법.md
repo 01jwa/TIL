@@ -1,6 +1,6 @@
 # Markdown 문법
 
-### 목차
+## 목차
 1. [Header](#1-header)      7. [Link](#7-link)
 2. [BlockQuote](#2-blockquote)    8. [Image](#8-image)
 3. [Emphasis](#3-emphasis)     9. [Table](#9-table)
@@ -8,9 +8,12 @@
 5. [Codeblock](#5-codeblock)
 6. [Horizontal Rule](#6-horizontal-rule)
 
+## 마크다운(Markdown)이란?
+* 마크다운 (Markdown)은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다. HTML 문서보다 읽기, 쓰기가 쉬운 문서 양식이 특징이며, 확장자는 .md이다.
 
+<br>
 
-### 1. Header
+## 1. Header
 
 `<h1>` 부터 `<h6>` 까지 표현이 가능합니다
 ```markdown
