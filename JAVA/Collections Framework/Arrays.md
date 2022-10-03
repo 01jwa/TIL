@@ -9,6 +9,15 @@
 ---
 <br>
 
+## Arrays 클래스 메서드
+* [`copyOf()`, `copyOfRange()`](#copyof-copyofrange) <br>
+* [`fill()`, `setAll()`](#fill-setall) <br>
+* [`sort()`, `binarySearch()`](#sort-binarysearch) <br>
+* [`equals()`, `toString()`](#equals-tostring) <br>
+* [`asList(Object... a)`](#aslistobject-a)
+
+---
+<br>
 ## **`copyOf()`, `copyOfRange()`**
 
 * `copyOf()`는 배열 전체를, `copyOfRange()`는 배열의 일부를 복사해서 새로운 배열을 만들어 반환한다.
